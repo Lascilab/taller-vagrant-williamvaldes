@@ -14,21 +14,6 @@ En cada una de las actividades el estudiante deberá proveer lo siguiente:
 
 * Los videos no deberían tener una duración superior a 3 minutos.
 
-**Opcional para quienes no puedan mostrar video**
-
-Para quien no pueda hacer uso de la plataforma `asciinema` entonces deberá proveer una imagen con la evidencia de que se completó la tarea requerida. 
-Trabajos que entreguen imágenes (*screenshots*) se calificarán sobre **4.0**.
-
-![](screenshot.jpg)
-
----
-
-> **_IMPORTANTE:_** Por favor no subir su tarea a [GitHub](https://github.com) hasta tanto usted no la haya completado. 
-> Por tanto, se sugiere que cree `branches` de la tarea y una vez un ítem este listo entonces hace el corresponiente `merge` del `branch`. 
-> Una vez usted sube sus cambios a GitHub el profesor podrá comentar sus cambios. 
-> Cualquier **adición** al código que no se haya discutido con el profesor no será **considerado** para la nota final de la asignación y dicha adición será considerada como entregada fuera de tiempo. 
-
----
 
 # Actividades
 
@@ -56,7 +41,7 @@ En esta actividad usted deberá evidenciar que ha sido capaz de:
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/326014)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-01)
 
 ---
@@ -79,8 +64,8 @@ Usando el comando `VBoxManage` habilite el *port forwarding* de modo que el puer
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA CON VBOXMANAGE**](https://asciinema.org)
-* [**ENLACE A VIDEO EN ASCIINEMA CON VAGRANTIFLE**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA CON VBOXMANAGE**](https://asciinema.org/a/326025)
+* [**ENLACE A VIDEO EN ASCIINEMA CON VAGRANTIFLE**](https://asciinema.org/a/326028)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-02)
 
 ---
@@ -97,9 +82,9 @@ Validar que efectivamente el servidor web fue instalado exitósamente.
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/326031)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-03)
-* [**ENLACE A SCRIPT DE INSTALACIÓN**](install-apache.sh)
+* [**ENLACE A SCRIPT DE INSTALACIÓN**](script_aprovisionamiento.sh)
 
 --- 
 
@@ -118,9 +103,9 @@ Construya un `Vagrantfile` que al ser invocado cree una máquina virtual con las
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/326036)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-04)
-* [**ENLACE A SCRIPT DE INSTALACIÓN**](install-apache.sh)
+* [**ENLACE A SCRIPT DE INSTALACIÓN**](script_aprovisionamiento.sh)
 
 ---
 
@@ -142,7 +127,7 @@ Hola mundo
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/326042)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-05)
 
 ---
@@ -159,7 +144,7 @@ La máquina `web1` deberá accedr al directorio `html` del *host* y la máquina 
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/326044)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-06)
 
 ---
@@ -197,5 +182,5 @@ En este caso usted usará los siguientes archivos para llevar a cabo el desplieg
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/326048)
 * [**ENLACE A `haproxy.sh`**](haproxy.sh)
