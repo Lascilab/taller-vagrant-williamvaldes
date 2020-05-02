@@ -1,0 +1,13 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+  config.vm.box = "ubuntu/xenial64"
+  config.vm.provision "shell", path: "script_aprovisionamiento.sh"
+  config.vm.provider :virtualbox do |vb|
+    vb.customize [ 'modifyvm', :id, '--name', 'maquina-punto3.local' ]
+  end
+end
+
+
+
