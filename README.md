@@ -184,6 +184,3 @@ Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
 * [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/326048)
 * [**ENLACE A `haproxy.sh`**](haproxy.sh)
-
-
-Ensayo commit_1
